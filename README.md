@@ -1,6 +1,6 @@
 # CSC4009 Fairness Analysis
 
-This repository contains my analysis of bias and fairness in the Adult Census Income dataset for CSC4009. The project focuses on how protected attributes such as sex and race relate to income outcomes and how different machine learning choices affect fairness metrics.
+This repository contains my analysis of bias and fairness in the Adult Census Income dataset. The project focuses on how protected attributes such as sex and race relate to income outcomes and how different machine learning choices affect fairness metrics.
 
 ## What the Repository Does
 
