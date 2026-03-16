@@ -1,0 +1,34 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
+Thumbs.db
+
+# Personal report drafts and notes
+assignment1v1.md
+assignment1v1.pdf
+cause_of_unfairness_analysis.md
+method_analysis_results.md
+report_draft.txt
+method_output.txt
+method_output2.txt
+
+# Auto-generated duplicates of the notebooks
+data_exploration.py
+cause_of_unfairness_notebook.py
+group_fairness_analysis.py
+method_analysis_notebook.py
+
+# Lecturer-provided starter scripts
+census-income-classifier.py
+census-income-clustering.py
+
+# Unused dataset files
+CSC4009-AI-Fairness-datasets/adult.data
+CSC4009-AI-Fairness-datasets/adult.test
+CSC4009-AI-Fairness-datasets/adult.names
+CSC4009-AI-Fairness-datasets/old.adult.names
+CSC4009-AI-Fairness-datasets/Index
